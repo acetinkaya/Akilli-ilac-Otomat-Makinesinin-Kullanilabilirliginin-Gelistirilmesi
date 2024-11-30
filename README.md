@@ -29,7 +29,7 @@ Improving the Usability of Smart Medicine Vending Machines
 
 Kongre İsmi: 3. Uluslararası Mühendislik Bilimleri ve Multidisipliner Yaklaşımlar Kongresi
 
-Kongre Kitabı ISBN No: 978-625-7783-826
+Kongre Kitabı ISBN No: 978-625-7367-54-7
 
 Kongre Tarihleri: 14-15 June 2021 Istanbul, Turkey
 
@@ -41,7 +41,7 @@ Kongre Tarihleri: 14-15 June 2021 Istanbul, Turkey
 168-175 / 01/2022 - 2022/2/21
 
 
-E-ISBN: 978-625-7367-54-7
+E-ISBN: 
 
 ![AlternatifMetin](https://github.com/acetinkaya/Akilli-ilac-Otomat-Makinesinin-Kullanilabilirliginin-Gelistirilmesi/blob/main/Otomat-kongre.png)
 
