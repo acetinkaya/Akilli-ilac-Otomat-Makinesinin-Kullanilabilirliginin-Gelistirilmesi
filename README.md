@@ -10,3 +10,7 @@ Tuğba Saray Çetinkaya, Muhammet Ömer Erdoğan, Ali Çetinkaya, Furkan Yılmaz
 
 
 E-ISBN: 978-625-7367-54-7
+
+![AlternatifMetin](
+
+![AlternatifMetin](
