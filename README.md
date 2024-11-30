@@ -46,3 +46,19 @@ Tam Metnin Kongre Kitabındaki Sayfaları: 168 - 175
 ![AlternatifMetin](https://github.com/acetinkaya/Akilli-ilac-Otomat-Makinesinin-Kullanilabilirliginin-Gelistirilmesi/blob/main/Otomat-kongre-yayin.png.png)
 
 ##  Kongre Erişim Sayfaları
+
+---
+
+## How to Cite / Nasıl Alıntı Yapılır
+
+- **IEEE**: A. Dogan, A. Okatan, A. Cetinkaya, "Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset",  INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS, vol.1, ISBN No: 978-625-7783-826, İstanbul, Turkey, pp.179-192, 2021 
+
+- **APA**: Dogan, A., Okatan, A. & Çetinkaya, A., (2021).  Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset. INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS (pp.179-179). İstanbul, Turkey                
+
+- **MLA**: Dogan, Ahmet Et Al.  "Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset."  INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS , İstanbul, Turkey, pp.179-179, 2021
+
+License:
+
+This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
+
+
