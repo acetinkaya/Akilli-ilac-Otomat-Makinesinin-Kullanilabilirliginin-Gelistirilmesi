@@ -13,7 +13,7 @@ Improving the Usability of Smart Medicine Vending Machines
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı, İstanbul, Türkiye
 
 - **Furkan Yılmaz**  
-  Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
+  İstanbul Gelişim Üniversitesi, Teknoloji Transfer Ofisi, İstanbul, Türkiye
 
 - **Umut Uz**  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Mekatronik Programı, İstanbul, Türkiye
