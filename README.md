@@ -27,7 +27,7 @@ Improving the Usability of Smart Medicine Vending Machines
 
 ## Kongre Bilgileri: 
 
-Kongre İsmi: INTERNATIONAL CONFERENCE on AI and BIG DATA in ENGINEER ING APPLICATIONS
+Kongre İsmi: 3. Uluslararası Mühendislik Bilimleri ve Multidisipliner Yaklaşımlar Kongresi
 
 Kongre Kitabı ISBN No: 978-625-7783-826
 
@@ -36,7 +36,7 @@ Kongre Tarihleri: 14-15 June 2021 Istanbul, Turkey
 ---
 
 
-3. Uluslararası Mühendislik Bilimleri ve Multidisipliner Yaklaşımlar Kongresi
+
 
 168-175 / 01/2022 - 2022/2/21
 
