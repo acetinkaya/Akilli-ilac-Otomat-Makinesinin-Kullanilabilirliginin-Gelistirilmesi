@@ -61,14 +61,12 @@ Teknolojinin ve otomasyon sistemlerinin gelişmesiyle birlikte dünya genelinde 
 
 ## How to Cite / Nasıl Alıntı Yapılır
 
-- **IEEE**: A. Dogan, A. Okatan, A. Cetinkaya, "Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset",  INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS, vol.1, ISBN No: 978-625-7783-826, İstanbul, Turkey, pp.179-192, 2021 
+- **IEEE**: A. Dogan, A. Okatan, A. Cetinkaya, "Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset",  3. Uluslararası Mühendislik Bilimleri ve Multidisipliner Yaklaşımlar Kongresi, vol.1, ISBN No: 978-625-7783-826, İstanbul, Turkey, pp.179-192, 2021 
 
-- **APA**: Dogan, A., Okatan, A. & Çetinkaya, A., (2021).  Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset. INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS (pp.179-179). İstanbul, Turkey                
+- **APA**: Dogan, A., Okatan, A. & Çetinkaya, A., (2021).  Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset. 3. Uluslararası Mühendislik Bilimleri ve Multidisipliner Yaklaşımlar Kongresi (pp.179-179). İstanbul, Turkey                
 
 - **MLA**: Saray Çetinkaya, Tuğba Et Al.  "Akıllı İlaç Otomat Makinesinin Kullanılabilirliğininin Geliştirilmesi."  3. Uluslararası Mühendislik Bilimleri ve Multidisipliner Yaklaşımlar Kongresi , İstanbul, Turkey, pp.168-175, 2022
 
 License:
 
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
-
-
