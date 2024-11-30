@@ -15,7 +15,7 @@ Improving the Usability of Smart Medicine Vending Machines
 - **Furkan Yılmaz**  
   Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
-- **Muhammet Ömer Erdoğan**  
+- **Umut Uz**  
   Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
