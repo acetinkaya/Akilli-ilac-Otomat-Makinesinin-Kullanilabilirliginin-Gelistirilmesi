@@ -3,7 +3,7 @@
 Improving the Usability of Smart Medicine Vending Machines
 
 ## Authors
-- **Ahmet Doğan**  
+- **Tuğba Saray Çetinkaya**  
   Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
 - **Ali Okatan**  
