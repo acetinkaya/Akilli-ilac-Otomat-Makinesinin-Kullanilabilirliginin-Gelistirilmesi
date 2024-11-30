@@ -51,7 +51,9 @@ Teknolojinin ve otomasyon sistemlerinin gelişmesiyle birlikte dünya genelinde 
 
 ##  Kongre Çalışması Erişim Sayfaları
 
-[igu İnternet Sayfasİ]([https://avesis.gelisim.edu.tr/alcetinkaya/projeler](https://avesis.gelisim.edu.tr/alcetinkaya/projeler)
+[Kongre Ana Sayfası](https://www.muhendislikbilimlerikongresi.org/bildiriayrinti/akilli-ilac-otomat-makinesinin-kullanilabilirligininin-gelistirilmesi_329)
+
+[igu İnternet Sayfasİ](https://avesis.gelisim.edu.tr/alcetinkaya/projeler)
 
 [ResearchGate](https://www.researchgate.net/publication/358802330_Akilli_Ilac_Otomat_Makinesinin_Kullanilabilirliginin_Gelistirilmesi)
 
