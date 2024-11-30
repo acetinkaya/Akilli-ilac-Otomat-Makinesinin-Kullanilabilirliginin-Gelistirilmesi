@@ -6,7 +6,7 @@ Improving the Usability of Smart Medicine Vending Machines
 - **Tuğba Saray Çetinkaya**  
   Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
-- **Ali Okatan**  
+- **Muhammet Ömer Erdoğan**  
   Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)  
