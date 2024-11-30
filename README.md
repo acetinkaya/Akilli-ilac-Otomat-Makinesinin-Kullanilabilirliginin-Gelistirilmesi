@@ -19,8 +19,8 @@ Improving the Usability of Smart Medicine Vending Machines
   Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
 - **Indrit Myderrizi**  
-  Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
-
+  İstanbul Gelişim Üniversitesi, Mühendislik ve Mimarlık Fakültesi, Elektrik Elektronik Mühendisliği, İstanbul, Türkiye
+    
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
 ---
