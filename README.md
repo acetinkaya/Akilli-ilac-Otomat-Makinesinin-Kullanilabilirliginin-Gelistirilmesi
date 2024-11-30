@@ -59,6 +59,10 @@ Teknolojinin ve otomasyon sistemlerinin gelişmesiyle birlikte dünya genelinde 
 
 ---
 
+İstanbul Gelişim Üniversitesi Teknoloji Transfer Ofisi Uygulama ve Araştırma Merkezi (İGÜ TTO UAM)tarafından yürütülen HD-200220-RY numaralı bilimsel araştırma projesi (BAP) olan “Akıllı İlaç OtomatMakinesinin Kullanılabilirliğinin Geliştirilmesi" isimli çalışma 3. Uluslararası Mühendislik Bilimleri veMultidisipliner Yaklaşımlar Kongresinde 11.02.2022 tarihinde sunulmuştur. Tam metin dosyası E-ISBN: 978-625-7367-54-7 numaralı kongre bildiri kitabi ile 21 Şubat 2022 tarihinde yayınlanmıştır 
+
+---
+
 ## How to Cite / Nasıl Alıntı Yapılır
 
 - **IEEE**: A. Dogan, A. Okatan, A. Cetinkaya, "Akıllı İlaç Otomat Makinesinin Kullanılabilirliğininin Geliştirilmesi",  3. Uluslararası Mühendislik Bilimleri ve Multidisipliner Yaklaşımlar Kongresi, vol.1, ISBN No: 978-625-7783-826, İstanbul, Turkey, pp.168-175, 2022 
