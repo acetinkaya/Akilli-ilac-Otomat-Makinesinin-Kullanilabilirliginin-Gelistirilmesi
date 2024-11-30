@@ -45,7 +45,7 @@ Tam Metnin Kongre Kitabındaki Sayfaları: 168 - 175
 
 Teknolojinin ve otomasyon sistemlerinin gelişmesiyle birlikte dünya genelinde otomatların kullanımı artmış, insanların belirtilen ürünlere ulaşmasını kolaylaştırmıştır. Covid 19 pandemisi veya diğer salgın hastalıklar sırasında insanların birbirleriyle temasını en aza indirmek gerekiyor. Bu çalışmada, insanların akıllı ilaç otomat sistemleri ile eczanelerden satın alınabilecek ilaç ve/veya çeşitli vitaminlere kolayca ulaşabilmesi amaçlanmaktadır. İlaç ve vitaminler gibi ürünlere acil ihtiyaç duyulan veya eczanelerin kapalı olduğu durumlarda ulaşılabilmesi için oto mekanik tasarım yapılmıştır. Mekanik aksamda sigma profiller kullanılarak bağlantı noktaları ve sonradan dahil edilebilecek donanımların montajı pratik bir şekilde yapılabilmektedir. Tasarlanan sistem üzerinde gerçekleştirilen uygulamalarda X ve Y eksenleri üzerinde çalışmakta olan ve hareketi sağlayan lineer sistemde herhangi bir sorun ya da takılma yaşanmadığı gözlemlenmiştir. Mekanik kısmına entegre edilmiş gömülü sistemin kontrolü ve iş akışı için bir algoritma geliştirilmiştir. Geliştirilen algoritma ile gömülü sistem Raspberry Pi 4 mikrodenetleyici kartı ile algılayıcı işlemler, cihaz içi ve dışı hava koşullarının ölçülmesi, x ve y eksenlerinde hareketi sağlayacak olan step motorların kontrolü, sensör verilerinin okunması, sensör verilerinin iletilmesi, dokunmatik ekranın kontrolü ve log kayıtlarının tutulması sağlanacaktır. Raspberry Pi 4 mikrodenetleyici kartı mini bir bilgisayardır. Dokunmatik ekran üzerinden sistemi kullanan kişilerin anlık verilerinin sistemimize parmak veya özel kalemler aracılığıyla kumanda edilmesine imkan vermektedir. Kullanılması planlanan sensörler ile anlık veri akışının sistem tarafından kontrol edilmesi amaçlanmaktadır. Geliştirilen prototip kullanılarak, ulusal sağlık sistemine bağlı kalınarak, sıklıkla ihtiyaç duyulan tıbbi ürünlerin minimum temasla kişilere ulaştırılması hedefleniyor.
 
-## Anahtar Kelimeler: Convolutional Neural Network, Fully Connected Layers, Vehicle Detection,YOLO
+## Anahtar Kelimeler: İlaç Otomatı, Akıllı Medikal Otomat, Medikal Teknoloji.
 
 ![AlternatifMetin](https://github.com/acetinkaya/Akilli-ilac-Otomat-Makinesinin-Kullanilabilirliginin-Gelistirilmesi/blob/main/Otomat-kongre-yayin.png.png)
 
@@ -57,7 +57,6 @@ Teknolojinin ve otomasyon sistemlerinin gelişmesiyle birlikte dünya genelinde 
 
 [ResearchGate](https://www.researchgate.net/publication/358802330_Akilli_Ilac_Otomat_Makinesinin_Kullanilabilirliginin_Gelistirilmesi)
 
-
 ---
 
 ## How to Cite / Nasıl Alıntı Yapılır
@@ -66,7 +65,7 @@ Teknolojinin ve otomasyon sistemlerinin gelişmesiyle birlikte dünya genelinde 
 
 - **APA**: Dogan, A., Okatan, A. & Çetinkaya, A., (2021).  Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset. INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS (pp.179-179). İstanbul, Turkey                
 
-- **MLA**: Dogan, Ahmet Et Al.  "Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset."  INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS , İstanbul, Turkey, pp.179-179, 2021
+- **MLA**: Saray Çetinkaya, Tuğba Et Al.  "Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset."  INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS , İstanbul, Turkey, pp.179-179, 2021
 
 License:
 
