@@ -13,4 +13,4 @@ E-ISBN: 978-625-7367-54-7
 
 ![AlternatifMetin](https://github.com/acetinkaya/Akilli-ilac-Otomat-Makinesinin-Kullanilabilirliginin-Gelistirilmesi/blob/main/Otomat-kongre.png)
 
-![AlternatifMetin](
+![AlternatifMetin](https://github.com/acetinkaya/Akilli-ilac-Otomat-Makinesinin-Kullanilabilirliginin-Gelistirilmesi/blob/main/Otomat-kongre-yayin.png.png)
