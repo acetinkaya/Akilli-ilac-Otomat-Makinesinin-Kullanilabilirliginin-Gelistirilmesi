@@ -49,9 +49,9 @@ Teknolojinin ve otomasyon sistemlerinin gelişmesiyle birlikte dünya genelinde 
 
 ![AlternatifMetin](https://github.com/acetinkaya/Akilli-ilac-Otomat-Makinesinin-Kullanilabilirliginin-Gelistirilmesi/blob/main/Otomat-kongre-yayin.png.png)
 
-##  Kongre Erişim Sayfaları
+##  Kongre Çalışması Erişim Sayfaları
 
-[Kongre İnternet Sayfası](https://avesis.gelisim.edu.tr/alcetinkaya/projeler
+[igu İnternet Sayfasİ]([https://avesis.gelisim.edu.tr/alcetinkaya/projeler](https://avesis.gelisim.edu.tr/alcetinkaya/projeler)
 
 [ResearchGate](https://www.researchgate.net/publication/358802330_Akilli_Ilac_Otomat_Makinesinin_Kullanilabilirliginin_Gelistirilmesi)
 
