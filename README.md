@@ -31,7 +31,7 @@ Kongre İsmi: 3. Uluslararası Mühendislik Bilimleri ve Multidisipliner Yaklaş
 
 Kongre Kitabı ISBN No: 978-625-7367-54-7
 
-Kongre Tarihleri: 14-15 June 2021 Istanbul, Turkey
+Kongre Tarihleri: 10-11 June 2021 Istanbul, Turkey
 
 ---
 
