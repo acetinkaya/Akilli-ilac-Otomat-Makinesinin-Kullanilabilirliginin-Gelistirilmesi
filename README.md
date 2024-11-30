@@ -65,7 +65,7 @@ Teknolojinin ve otomasyon sistemlerinin gelişmesiyle birlikte dünya genelinde 
 
 - **APA**: Dogan, A., Okatan, A. & Çetinkaya, A., (2021).  Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset. INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS (pp.179-179). İstanbul, Turkey                
 
-- **MLA**: Saray Çetinkaya, Tuğba Et Al.  "Vehicle Classification and Tracking UsingConvolutional Neural Network Based on DarknetYolo with Coco Dataset."  INTERNATIONAL CONFERENCE ONAI AND BIG DATA IN ENGINEER ING APPLICATIONS , İstanbul, Turkey, pp.179-179, 2021
+- **MLA**: Saray Çetinkaya, Tuğba Et Al.  "Akıllı İlaç Otomat Makinesinin Kullanılabilirliğininin Geliştirilmesi."  3. Uluslararası Mühendislik Bilimleri ve Multidisipliner Yaklaşımlar Kongresi , İstanbul, Turkey, pp.168-175, 2022
 
 License:
 
