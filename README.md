@@ -65,7 +65,7 @@ Teknolojinin ve otomasyon sistemlerinin gelişmesiyle birlikte dünya genelinde 
  
 ## How to Cite / Nasıl Alıntı Yapılır
 
-- **IEEE**: T. Saray Çetinkaya, M. Ö. Erdoğan, A. Çetinkaya, F. Yılmaz, U. Uz & I. Myderrizi, "Akıllı İlaç Otomat Makinesinin Kullanılabilirliğininin Geliştirilmesi",  3. Uluslararası Mühendislik Bilimleri ve Multidisipliner Yaklaşımlar Kongresi, vol.1, ISBN No: 978-625-7783-826, İstanbul, Turkey, pp.168-175, 2022 
+- **IEEE**: T. Saray Çetinkaya, M. Ö. Erdoğan, A. Çetinkaya, F. Yılmaz, U. Uz & I. Myderrizi, "Akıllı İlaç Otomat Makinesinin Kullanılabilirliğininin Geliştirilmesi",  3. Uluslararası Mühendislik Bilimleri ve Multidisipliner Yaklaşımlar Kongresi, İstanbul, Turkey, pp.168-175, 2022 
 
 - **APA**: Saray Çetinkaya T., Erdoğan, M. Ö., Çetinkaya, A., Yılmaz, F.,  Uz U., & Myderrizi, I., (2022).  Akıllı İlaç Otomat Makinesinin Kullanılabilirliğininin Geliştirilmesi. 3. Uluslararası Mühendislik Bilimleri ve Multidisipliner Yaklaşımlar Kongresi (pp.168-175). İstanbul, Turkey                
 
