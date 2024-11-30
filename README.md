@@ -33,15 +33,10 @@ Kongre Kitabı ISBN No: 978-625-7367-54-7
 
 Kongre Tarihleri: 10-11 Şubat 2022 Istanbul, Turkey
 
+Tam Metnin Kongre Kitabındaki Sayfaları: 168 - 175
+
 ---
 
-
-
-
-168-175 / 01/2022 - 2022/2/21
-
-
-E-ISBN: 
 
 ![AlternatifMetin](https://github.com/acetinkaya/Akilli-ilac-Otomat-Makinesinin-Kullanilabilirliginin-Gelistirilmesi/blob/main/Otomat-kongre.png)
 
