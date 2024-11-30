@@ -37,7 +37,12 @@ Tam Metnin Kongre Kitabındaki Sayfaları: 168 - 175
 
 ---
 
-
 ![AlternatifMetin](https://github.com/acetinkaya/Akilli-ilac-Otomat-Makinesinin-Kullanilabilirliginin-Gelistirilmesi/blob/main/Otomat-kongre.png)
 
+---
+
+## Özet ve Yayın Bilgisi
+
 ![AlternatifMetin](https://github.com/acetinkaya/Akilli-ilac-Otomat-Makinesinin-Kullanilabilirliginin-Gelistirilmesi/blob/main/Otomat-kongre-yayin.png.png)
+
+##  Kongre Erişim Sayfaları
