@@ -11,6 +11,6 @@ Tuğba Saray Çetinkaya, Muhammet Ömer Erdoğan, Ali Çetinkaya, Furkan Yılmaz
 
 E-ISBN: 978-625-7367-54-7
 
-![AlternatifMetin](
+![AlternatifMetin](https://github.com/acetinkaya/Akilli-ilac-Otomat-Makinesinin-Kullanilabilirliginin-Gelistirilmesi/blob/main/Otomat-kongre.png)
 
 ![AlternatifMetin](
